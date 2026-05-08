@@ -6,3 +6,5 @@
 
 ## Session 2 exercise 
 - new information
+
+## Änderung online eingefügt 
